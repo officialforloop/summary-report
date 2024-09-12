@@ -14,6 +14,7 @@ This project is a **Summary Report Application** built using **Node.js** for the
 The backend reads user data files from the `/data` directory, validates the JSON structure, and computes the summary. The frontend displays the summary using **statistic cards** and a **Pie Chart** for easy data visualization.
 
 ---
+![Summary Report](./summery-report.png)
 
 ### **Table of Contents**
 
@@ -76,8 +77,8 @@ Make sure you have the following installed on your machine:
 1. Clone the repository or download the project:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>/backend
+    git clone https://github.com/officialforloop/summary-report.git
+    cd summary-report/backend
     ```
 
 2. Install backend dependencies:
@@ -212,9 +213,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ### **Contributors**
 
-- [Your Name] (Project Lead)
-- [Contributor 1] (Backend Development)
-- [Contributor 2] (Frontend Development)
+- Tajudeen Muktar (Project Lead)
+- Tajudeen Muktar (Backend Development)
+- Tajudeen Muktar (Frontend Development)
 
 ---
 
