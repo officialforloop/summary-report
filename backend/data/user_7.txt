@@ -1,0 +1,7 @@
+{
+  "id": 1246,
+  "name": "Leo Rogahn",
+  "email": "Milo_Schroeder87@yahoo.com",
+  "age": 33,
+  "country": "Saint Pierre and Miquelon"
+}

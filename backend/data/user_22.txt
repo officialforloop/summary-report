@@ -1,0 +1,7 @@
+{
+  "id": 3194,
+  "name": "Delia Mertz",
+  "email": "Eloise48@hotmail.com",
+  "age": 44,
+  "country": "Aruba"
+}

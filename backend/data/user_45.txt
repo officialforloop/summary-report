@@ -1,0 +1,7 @@
+{
+  "id": 4098,
+  "name": "Kay Batz",
+  "email": "Celestine.Rempel@yahoo.com",
+  "age": 45,
+  "country": "Azerbaijan"
+}

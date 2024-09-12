@@ -1,0 +1,7 @@
+{
+  "id": 4575,
+  "name": "Alyssa Wisoky",
+  "email": "Romaine76@hotmail.com",
+  "age": 22,
+  "country": "Central African Republic"
+}

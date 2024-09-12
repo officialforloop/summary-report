@@ -1,0 +1,7 @@
+{
+  "id": 6505,
+  "name": "Clifford Mosciski-Spencer",
+  "email": "Ruthe_Ritchie47@yahoo.com",
+  "age": 78,
+  "country": "France"
+}

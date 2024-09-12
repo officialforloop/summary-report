@@ -1,0 +1,7 @@
+{
+  "id": 6795,
+  "name": "Joanna Schultz",
+  "email": "Brenda_Hand98@hotmail.com",
+  "age": 68,
+  "country": "Argentina"
+}

@@ -1,0 +1,7 @@
+{
+  "id": 3214,
+  "name": "Julius Wilkinson",
+  "email": "Nels_Wilkinson38@gmail.com",
+  "age": 43,
+  "country": "South Africa"
+}

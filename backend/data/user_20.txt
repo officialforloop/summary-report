@@ -1,0 +1,7 @@
+{
+  "id": 7866,
+  "name": "Geoffrey Kuhic",
+  "email": "Madie.Gislason91@yahoo.com",
+  "age": 77,
+  "country": "Bermuda"
+}

@@ -1,0 +1,14 @@
+{
+  "totalUsers": 50,
+  "averageAge": 45.54,
+  "countryLabels": [
+    "Liberia",
+    "Virgin Islands, British",
+    "Mauritius"
+  ],
+  "countryData": [
+    2,
+    2,
+    1
+  ]
+}

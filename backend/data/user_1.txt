@@ -1,0 +1,7 @@
+{
+  "id": 7753,
+  "name": "Owen Wyman",
+  "email": "Karley8@gmail.com",
+  "age": 67,
+  "country": "Mauritius"
+}
