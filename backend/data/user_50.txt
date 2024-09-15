@@ -1,7 +1,0 @@
-{
-  "id": 5575,
-  "name": "Karla Hodkiewicz",
-  "email": "Alba63@hotmail.com",
-  "age": 77,
-  "country": "Bahrain"
-}

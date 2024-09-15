@@ -1,7 +1,0 @@
-{
-  "id": 964,
-  "name": "Sally Weissnat III",
-  "email": "Ciara57@gmail.com",
-  "age": 42,
-  "country": "Western Sahara"
-}

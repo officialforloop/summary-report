@@ -1,7 +1,0 @@
-{
-  "id": 5654,
-  "name": "Naomi Leuschke-Denesik",
-  "email": "Josh_Schmitt46@gmail.com",
-  "age": 60,
-  "country": "India"
-}

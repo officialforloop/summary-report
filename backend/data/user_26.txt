@@ -1,7 +1,0 @@
-{
-  "id": 1559,
-  "name": "Kristopher Mohr",
-  "email": "Ilene_Tremblay85@hotmail.com",
-  "age": 40,
-  "country": "Poland"
-}

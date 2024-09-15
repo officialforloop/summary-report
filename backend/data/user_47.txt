@@ -1,7 +1,0 @@
-{
-  "id": 7577,
-  "name": "Tricia Goodwin",
-  "email": "Eduardo_Cartwright28@hotmail.com",
-  "age": 56,
-  "country": "El Salvador"
-}

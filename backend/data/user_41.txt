@@ -1,7 +1,0 @@
-{
-  "id": 9218,
-  "name": "Frank Harber IV",
-  "email": "Nellie23@yahoo.com",
-  "age": 21,
-  "country": "Ireland"
-}

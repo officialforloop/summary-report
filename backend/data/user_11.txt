@@ -1,7 +1,0 @@
-{
-  "id": 330,
-  "name": "Johnathan Reynolds DDS",
-  "email": "Rico64@gmail.com",
-  "age": 45,
-  "country": "Liberia"
-}

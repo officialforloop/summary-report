@@ -1,7 +1,0 @@
-{
-  "id": 742,
-  "name": "Connie Aufderhar DVM",
-  "email": "Kyle69@hotmail.com",
-  "age": 69,
-  "country": "Guadeloupe"
-}

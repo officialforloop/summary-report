@@ -1,7 +1,0 @@
-{
-  "id": 9947,
-  "name": "Sherri Legros",
-  "email": "Webster_Strosin@gmail.com",
-  "age": 21,
-  "country": "Senegal"
-}

@@ -1,7 +1,0 @@
-{
-  "id": 8236,
-  "name": "Elena Sipes",
-  "email": "Jorge_Lang35@gmail.com",
-  "age": 53,
-  "country": "Curacao"
-}

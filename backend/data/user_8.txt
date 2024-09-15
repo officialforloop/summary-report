@@ -1,7 +1,0 @@
-{
-  "id": 6539,
-  "name": "Harvey Trantow",
-  "email": "Assunta_Carter@yahoo.com",
-  "age": 44,
-  "country": "Anguilla"
-}

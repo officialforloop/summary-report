@@ -1,7 +1,0 @@
-{
-  "id": 6356,
-  "name": "Dr. Timmy Runte",
-  "email": "Hardy.Predovic53@gmail.com",
-  "age": 34,
-  "country": "San Marino"
-}

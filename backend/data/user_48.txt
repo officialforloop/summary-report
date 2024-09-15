@@ -1,7 +1,0 @@
-{
-  "id": 7165,
-  "name": "Ana Collier",
-  "email": "Max_Hamill@gmail.com",
-  "age": 73,
-  "country": "Kuwait"
-}

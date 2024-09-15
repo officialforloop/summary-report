@@ -1,7 +1,0 @@
-{
-  "id": 7008,
-  "name": "Carlton Hilll",
-  "email": "Quentin_Hermiston@gmail.com",
-  "age": 20,
-  "country": "Nicaragua"
-}

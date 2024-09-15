@@ -1,7 +1,0 @@
-{
-  "id": 7506,
-  "name": "Fredrick Kshlerin",
-  "email": "Omari_Hegmann22@hotmail.com",
-  "age": 21,
-  "country": "Ukraine"
-}

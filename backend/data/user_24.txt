@@ -1,7 +1,0 @@
-{
-  "id": 4207,
-  "name": "Dr. Emma Bosco",
-  "email": "Filomena95@gmail.com",
-  "age": 53,
-  "country": "Eritrea"
-}

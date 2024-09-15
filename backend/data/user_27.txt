@@ -1,7 +1,0 @@
-{
-  "id": 8223,
-  "name": "Donna Hayes",
-  "email": "Nikko.Lang84@yahoo.com",
-  "age": 51,
-  "country": "Virgin Islands, British"
-}

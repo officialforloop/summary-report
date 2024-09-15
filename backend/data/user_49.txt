@@ -1,7 +1,0 @@
-{
-  "id": 6658,
-  "name": "Delia Corkery-Rutherford",
-  "email": "Hilbert1@hotmail.com",
-  "age": 29,
-  "country": "Jamaica"
-}

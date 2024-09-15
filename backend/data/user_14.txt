@@ -1,7 +1,0 @@
-{
-  "id": 7749,
-  "name": "Miss Nadine Rogahn-Cronin",
-  "email": "Dudley84@hotmail.com",
-  "age": 25,
-  "country": "Burkina Faso"
-}

@@ -1,7 +1,0 @@
-{
-  "id": 4049,
-  "name": "Edgar Metz",
-  "email": "Damaris21@gmail.com",
-  "age": 44,
-  "country": "North Macedonia"
-}

@@ -1,7 +1,0 @@
-{
-  "id": 9691,
-  "name": "Gayle Streich",
-  "email": "Melba_Boehm56@hotmail.com",
-  "age": 49,
-  "country": "Nauru"
-}

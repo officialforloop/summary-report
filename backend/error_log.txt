@@ -1,0 +1,39 @@
+2024-09-15T08:25:59.468Z - Invalid file format: Churny web homepage.pdf
+2024-09-15T08:25:59.471Z - Invalid file format: Churny web sign in.pdf
+2024-09-15T08:25:59.472Z - Invalid file format: Churny web sign up.pdf
+2024-09-15T08:25:59.474Z - Invalid file format: emo.jpg
+2024-09-15T08:25:59.477Z - Invalid file format: larry.jpg
+2024-09-15T08:25:59.479Z - Invalid file format: lifront.png
+2024-09-15T08:25:59.481Z - Invalid file format: oladapo.pdf
+2024-09-15T08:25:59.482Z - Invalid file format: ticket flier.jpg
+2024-09-15T08:25:59.484Z - Invalid file format: tshirt.jpg
+2024-09-15T08:25:59.488Z - Error parsing JSON in file users2.txt: Expected double-quoted property name in JSON at position 135
+2024-09-15T08:25:59.559Z - File users2.txt does not contain a valid array of JSON objects.
+2024-09-15T08:25:59.584Z - Error parsing JSON in file users3.txt: Bad control character in string literal in JSON at position 47833
+2024-09-15T08:25:59.589Z - File users3.txt does not contain a valid array of JSON objects.
+2024-09-15T08:27:06.317Z - Invalid file format: Churny web homepage.pdf
+2024-09-15T08:27:06.320Z - Invalid file format: Churny web sign in.pdf
+2024-09-15T08:27:06.322Z - Invalid file format: Churny web sign up.pdf
+2024-09-15T08:27:06.324Z - Invalid file format: emo.jpg
+2024-09-15T08:27:06.326Z - Invalid file format: larry.jpg
+2024-09-15T08:27:06.329Z - Invalid file format: lifront.png
+2024-09-15T08:27:06.330Z - Invalid file format: oladapo.pdf
+2024-09-15T08:27:06.332Z - Invalid file format: ticket flier.jpg
+2024-09-15T08:27:06.336Z - Invalid file format: tshirt.jpg
+2024-09-15T08:27:06.341Z - Error parsing JSON in file users2.txt: Expected double-quoted property name in JSON at position 135
+2024-09-15T08:27:06.345Z - File users2.txt does not contain a valid array of JSON objects.
+2024-09-15T08:27:06.413Z - Error parsing JSON in file users3.txt: Bad control character in string literal in JSON at position 47833
+2024-09-15T08:27:06.416Z - File users3.txt does not contain a valid array of JSON objects.
+2024-09-15T08:27:06.486Z - Invalid file format: Churny web homepage.pdf
+2024-09-15T08:27:06.488Z - Invalid file format: Churny web sign in.pdf
+2024-09-15T08:27:06.490Z - Invalid file format: Churny web sign up.pdf
+2024-09-15T08:27:06.491Z - Invalid file format: emo.jpg
+2024-09-15T08:27:06.493Z - Invalid file format: larry.jpg
+2024-09-15T08:27:06.494Z - Invalid file format: lifront.png
+2024-09-15T08:27:06.496Z - Invalid file format: oladapo.pdf
+2024-09-15T08:27:06.498Z - Invalid file format: ticket flier.jpg
+2024-09-15T08:27:06.500Z - Invalid file format: tshirt.jpg
+2024-09-15T08:27:06.504Z - Error parsing JSON in file users2.txt: Expected double-quoted property name in JSON at position 135
+2024-09-15T08:27:06.506Z - File users2.txt does not contain a valid array of JSON objects.
+2024-09-15T08:27:06.516Z - Error parsing JSON in file users3.txt: Bad control character in string literal in JSON at position 47833
+2024-09-15T08:27:06.518Z - File users3.txt does not contain a valid array of JSON objects.

@@ -1,7 +1,0 @@
-{
-  "id": 2750,
-  "name": "Camille Bahringer-Stark Jr.",
-  "email": "Darby.Brown@yahoo.com",
-  "age": 45,
-  "country": "Pitcairn Islands"
-}

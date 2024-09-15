@@ -1,7 +1,0 @@
-{
-  "id": 6540,
-  "name": "Vernon Parisian",
-  "email": "Samantha35@gmail.com",
-  "age": 41,
-  "country": "Australia"
-}

@@ -1,7 +1,0 @@
-{
-  "id": 9300,
-  "name": "Pablo Maggio",
-  "email": "Mekhi.Spinka97@gmail.com",
-  "age": 32,
-  "country": "Comoros"
-}
